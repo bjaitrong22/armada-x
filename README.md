@@ -1,3 +1,26 @@
+# Application Name
+
+armada-x
+
+## `Brief Description`
+
+
+## `Author`
+
+By Bai Jaitrong
+
+## Technologies Used
+  * VS Code
+  * React
+  * JSX
+  * JavaScript
+  * draw.io
+  
+## `Research & Planning Log`
+#### Thursday, 04/06/2023
+* 10:20: research video gaming creation process
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
