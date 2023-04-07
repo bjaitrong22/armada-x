@@ -18,8 +18,9 @@ By Bai Jaitrong
   
 ## `Research & Planning Log`
 #### Thursday, 04/06/2023
-* 10:20: research video gaming creation process
-* 01:36 research Three.js and react-three-fiber for 3D animation.
+* 10:20 am: research video gaming creation process
+* 01:36 pm: research Three.js and react-three-fiber for 3D animation.
+* 08:20 pm: researching THREE.JS.
 
 
 # Getting Started with Create React App
