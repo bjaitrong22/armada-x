@@ -20,7 +20,9 @@ By Bai Jaitrong
 #### Thursday, 04/06/2023
 * 10:20 am: research video gaming creation process
 * 01:36 pm: research Three.js and react-three-fiber for 3D animation.
-* 08:20 pm: researching THREE.JS.
+* 08:20 pm: researching three.Js.
+#### Friday, 04/07/2023
+* 12:40 pm: research react-three-fiber.
 
 
 # Getting Started with Create React App
