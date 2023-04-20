@@ -28,6 +28,7 @@ By Bai Jaitrong
 4:00 pm: research end for the day.
 #### Thursday, 04/20/2023
 3:15 pm: research add firebase to c# API.
+4:15 pm: research completed for the day. 
 
 
 # Getting Started with Create React App
