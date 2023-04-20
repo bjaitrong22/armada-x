@@ -25,7 +25,9 @@ By Bai Jaitrong
 * 12:40 pm: research react-three-fiber.
 #### Saturday, 04/08/2023
 8:30 am: reseach on three.js
-4:00 pm: research end for the day
+4:00 pm: research end for the day.
+#### Thursday, 04/20/2023
+3:15 pm: research add firebase to c# API.
 
 
 # Getting Started with Create React App
