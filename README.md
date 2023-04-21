@@ -30,8 +30,9 @@ By Bai Jaitrong
 3:15 pm: research add firebase to c# API.
 4:15 pm: research completed for the day. 
 #### Friday, 04/21/2023
-8:45 am: research game development YouTube tutorials
-4:30 pm: review react main concept tutorial
+8:45 am: research game development YouTube tutorials.
+4:30 pm: review react main concept tutorial.
+5:30 pm: end of research for the day.
 
 
 # Getting Started with Create React App
