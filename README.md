@@ -31,6 +31,7 @@ By Bai Jaitrong
 4:15 pm: research completed for the day. 
 #### Friday, 04/21/2023
 8:45 am: research game development YouTube tutorials
+4:30 pm: review react main concept tutorial
 
 
 # Getting Started with Create React App
