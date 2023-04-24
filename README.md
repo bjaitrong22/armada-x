@@ -33,7 +33,10 @@ By Bai Jaitrong
 8:45 am: research game development YouTube tutorials.
 4:30 pm: review react main concept tutorial.
 5:30 pm: end of research for the day.
-
+### Sunday, 04/23/2023 
+9:45 am: JavaScript Game Development tutorials
+11:24 pm: WIP: JavaScript Game Development tutorials
+ 
 
 # Getting Started with Create React App
 
